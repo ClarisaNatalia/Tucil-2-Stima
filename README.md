@@ -1,14 +1,14 @@
 # Tucil-2-Stima
 Penyusunan Rencana Kuliah dengan Topological Sort (Penerapan Decrease and Conquer)
 
-#requirement
+# Requirement
  - Python3.5 
 
-#How to run program 
+# How to run program 
 1. ubah nama file pada baris ke - 6 pada file "13519213.py" menjadi nama file yang ingin diuji
 2. run program dengan menekan tombol run pada IDE
 
-#Author
+# Author
 Clarisa Natalia Edelin 13519213
 
  # Author's note
