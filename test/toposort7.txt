@@ -1,0 +1,10 @@
+Matematika IA
+Matematika IIA, Matematika IA
+Matematika Diskrit, Matematika IA, Matematika IIA
+Pengenalan Komputasi
+Dasar Pemrograman, Pengenalan Komputasi
+Aljabar linier dan Gemometri, Matematika IA, Matematika IIA
+Algoritma dan Struktur Data, Dasar Pemrograman
+Probabilitas dan Statistika, Matematika IA, Matematika IIA, Matematika Diskrit
+Pengembangan Aplikasi Berbasis Web, Pemrograman Berorientasi Objek
+Pemrograman Berorientasi Objek, Algoritma dan Struktur Data
